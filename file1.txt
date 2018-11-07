@@ -1,2 +1,4 @@
 Some text
+Line number 2
+
 
